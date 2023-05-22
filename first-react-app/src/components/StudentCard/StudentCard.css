@@ -1,0 +1,21 @@
+.Student-card {
+    width: 30%;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.Student-card img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.Student-card.green {
+    background-color: rgb(197, 255, 197);
+}
+
+.Student-card.grey {
+    background-color: rgb(213, 213, 213)
+}

@@ -1,0 +1,20 @@
+.Header nav {
+    border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.Header img {
+    width: 50px;
+}
+
+.Header ul {
+    display: flex;
+    list-style: none;
+}
+
+.Header li {
+    margin-right: 10px;
+}
